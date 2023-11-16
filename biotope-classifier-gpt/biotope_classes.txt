@@ -1,0 +1,83 @@
+# Habitat classes, one per row:
+
+Forest
+Heath forest
+Mesic heath forest
+Herb-rich heath forest
+Sub-xeric heath forest
+Xeric heath forest
+Herb-rich forest
+Dry herb-rich forest
+Mesic herb-rich forest
+Moist herb-rich forest
+Herb-rich forest with broadleaved deciduous trees
+Mire
+Open mire
+Rich fen
+Fen
+Open swamp
+Wooded mire
+Pine mire and bog
+Spruce mire
+Scrub swamp
+Swamp
+Water
+Spring complex
+Streams or a brook
+Shore
+Flooded forest
+Shore scrub
+Swamp shore
+Meadow shore
+Reedbed
+Gravel and shingle shores
+Sand beach
+Unvegetated flood shore
+Rock outcrop and scree
+Siliceous rock outcrops
+Lichen rock outcrop and scree
+Graminoid dwarf shrub rock outcrop and scree
+Rock outcrop and scree deficient of trees
+Forest on rocky terrain
+Calcareous rock outcrop and quarry, bare calcareous land
+Serpentine rock outcrop or land
+Rock meadow
+Fell area
+Snowbed
+Rock face
+Rural biotopes and cultural habitats
+Dry meadow
+Heath
+Mesic meadow
+Wooded pasture and meadow
+Moist meadow (other than shore meadow)
+Fen meadow
+Ditch or other excavation
+Agricultural land
+Field
+Lawn or grass
+Tree and bush plantation
+Abandoned field
+Park, courtyard or garden
+Park
+Manor garden
+Graveyard
+Courtyard
+Garden
+Open grass
+Scrub
+Secondary habitats
+Roadsides (verges, banks, etc.)
+Dumping area
+Fill-up soil
+Sand and gravel pit
+Peat production area
+Quarry and mine area
+Ruderate habitats and areas
+Sea
+Brackish water
+Oligotrophic lake or pond
+Eutrophic lake or pond
+Small pond
+River
+Rapids
